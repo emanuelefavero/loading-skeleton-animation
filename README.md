@@ -8,6 +8,10 @@ This is a loading skeleton animation built with CSS and JS
 
 [https://emanuelefavero.github.io/loading-skeleton-animation/](https://emanuelefavero.github.io/loading-skeleton-animation/)
 
+#### Screenshot
+
+<img src="screenshot.png" alt="screenshot" width="300">
+
 ## How to use
 
 - clone the repo and open the index.html file in your browser
